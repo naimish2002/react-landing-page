@@ -83,7 +83,7 @@ const Footer = () => {
           </div>
 
           <div className='w-full md:w-3/4 lg:w-3/5 flex flex-col md:flex-row gap-y-7 md:gap-y-5 justify-between'>
-            <div className=' flex-grow flex justify-between'>
+            <div className=' flex-grow flex justify-around'>
               <div className='flex flex-col gap-y-3 md:gap-y-5 lg:gap-y-7'>
                 <p className='text-white font-semibold text-lg md:text-base'>
                   Company
